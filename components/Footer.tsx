@@ -10,11 +10,11 @@ export const Footer: FC = () => {
         Created by
         <a
           className="hover:opacity-50 mx-1"
-          href="https://twitter.com/mckaywrigley"
+          href="https://twitter.com/gijigae"
           target="_blank"
           rel="noreferrer"
         >
-          Mckay Wrigley
+          Choimirai School
         </a>
         based on the essays of
         <a
